@@ -78,7 +78,6 @@ def verification():
     else:
         leancloud.init(sys.argv[1], sys.argv[2])
         friendpage_link = sys.argv[3]
-        print('当前友链:', friendpage_link)
     return friendpage_link
 
 # get friend_link
