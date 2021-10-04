@@ -79,7 +79,7 @@ BLOCK_SITE = [
 
 # 友链列表配置文件
 CONFIG_FRIENDS_LINKS = {
-    "enable": False, # 是否启用配置项友链 True/False（此项用于针对还未适配的主题用户）
+    "enable": True, # 是否启用配置项友链 True/False（此项用于针对还未适配的主题用户）
     "list":[
         # 格式：["name", "link", "avatar"]，除最后一行外每行后面加","，"[]"不可省略
         # link的结尾最好加上'/'
