@@ -83,7 +83,6 @@ def verification():
 # get friend_link
 def get_link(friendpage_link, config):
     friend_poor = []
-    print('友情链接地址：', friendpage_link)
 
     #  get setting.py_links
     if configs.CONFIG_FRIENDS_LINKS['enable']:
