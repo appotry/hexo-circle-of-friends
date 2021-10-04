@@ -26,11 +26,11 @@ import os
 BASE_PATH = os.path.abspath(os.path.dirname(__file__))
 
 # debug模式
-DEBUG = False
+DEBUG = True
 
 # debug leancloud验证
-LC_APPID = "nSyYINNelN3OJdAbblDVNWM1-MdYXbMMI"
-LC_APPKEY = "yxmDsLg0reOEa0DXfW8cfnee"
+LC_APPID = "v2hJTCLDHLnGF4iSJkBJ8mga-MdYXbMMI"
+LC_APPKEY = "Hu4UNHLVERHkhfH6G5xqdqN3"
 
 # debug 测试用的博客地址
 # FRIENPAGE_LINK = "https://nekodeng.gitee.io/friends/"
