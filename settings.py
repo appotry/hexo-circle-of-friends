@@ -34,7 +34,8 @@ LC_APPKEY = "yxmDsLg0reOEa0DXfW8cfnee"
 
 # debug 测试用的博客地址
 # FRIENPAGE_LINK = "https://nekodeng.gitee.io/friends/"
-FRIENPAGE_LINK = "https://zhangyazhuang.gitee.io/link/"
+# FRIENPAGE_LINK = "https://zhangyazhuang.gitee.io/link/"
+FRIENPAGE_LINK = "https://blog.17lai.site/friends/"
 # FRIENPAGE_LINK = "https://blog.raxianch.moe/link"
 
 """
