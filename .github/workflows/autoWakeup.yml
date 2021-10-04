@@ -35,3 +35,4 @@ jobs:
         $LINK: ${{ secrets.LINK }} 
       run: | 
         python run.py ${{ secrets.APPID }} ${{ secrets.APPKEY }}  ${{ secrets.LINK }}
+        echo $LINK $APP_ID
